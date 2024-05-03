@@ -2,7 +2,6 @@
 @tree
 
 @UH32_Planning
-@ERPUH32_Planning
 
 Функционал: 08. Проверить создание ОФД
 
