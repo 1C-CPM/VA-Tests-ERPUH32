@@ -3,7 +3,8 @@
 
 @UH32_Planning
 @ERPUH32_Planning
-@UH32_Planning_OFD_CF
+@UH32_Planning_OFD_CF_inflow
+@UH32_Planning_OFD_CF_outflow
 @UH32_Planning_OFD_PL
 
 Функционал: 00.00 Настройка информационной базы 
